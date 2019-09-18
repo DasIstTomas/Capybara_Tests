@@ -6,4 +6,4 @@ These simple tests created in a couple with Capybara and RSpec.
 4. Open *features\tests* \ **test_spec.rb** file using cmd
 5. Enter **rspec test_spec.rb** command
 
-Note: You may be have to instal new gems (Refer to the Gemfile). Use **gem install required_gem** command
+Note: You may be have to install new gems (Refer to the Gemfile). Use **gem install required_gem** command
